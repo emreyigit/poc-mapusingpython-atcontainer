@@ -1,0 +1,4 @@
+[submodule "hazelcast"]
+	path = hazelcast
+	url = https://github.com/emreyigit/hazelcast.git
+	branch=map-using-python
